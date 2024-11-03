@@ -44,7 +44,7 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishozit-chandra-das/)
 - [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Bishozit-Chandra-Das)
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bishozitchandradas)
-- **Email:** [bishozitdas191@gmail.com](mailto:bishozitdas191@gmail.com)
+- [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bishozitdas191@gmail.com)
 
 Feel free to reach out for collaborations, tech discussions, or just to connect! Happy coding! 🚀
 
