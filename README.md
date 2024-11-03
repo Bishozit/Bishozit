@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Bishozit Chandra Das
 
-### 🚀 Mobile App Developer | Computer Science Graduate | Tech Enthusiast
+### 🚀 Mobile App Developer | Computer Science Graduate | Tech Enthusiast | Researcher
 
 I'm a passionate **Mobile App Developer** with a Bachelor's degree in Computer Science and Engineering. I specialize in **mobile application development** and am driven by a deep interest in building efficient, user-friendly, and impactful applications. Currently, I work as a Mobile App Developer, utilizing my skills to create solutions that enhance user experience and meet business goals.
 
