@@ -1,10 +1,10 @@
 # Hi there! 👋 I'm Bishozit Chandra Das
 
-### 🚀 Mobile App Developer | Computer Science Graduate | Tech Enthusiast | Researcher
+### 🚀 Mobile App Developer | Computer Science Graduate | Tech Enthusiast | Passionate Researcher
 
 I'm a passionate **Mobile App Developer** with a Bachelor's degree in Computer Science and Engineering. I specialize in **mobile application development** and am driven by a deep interest in building efficient, user-friendly, and impactful applications. Currently, I work as a Mobile App Developer, utilizing my skills to create solutions that enhance user experience and meet business goals.
 
-Beyond work, I’m dedicated to sharing my technical knowledge with others, motivating them to embrace technology, and contributing to the tech community. In my free time, I enjoy watching podcasts, and movies, and catching up on sports.
+Beyond work, I’m dedicated to sharing my technical knowledge with others, motivating them to embrace technology, and contributing to the tech community. In my free time, I enjoy watching podcasts, movies, and catching up on sports.
 
 ---
 
@@ -42,6 +42,7 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
 ### 🌐 Connect With Me
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bishozit-chandra-das/)
+- [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Bishozit-Chandra-Das)
 - **Email:** [bishozitdas191@gmail.com](mailto:bishozitdas191@gmail.com)
 
 ---
