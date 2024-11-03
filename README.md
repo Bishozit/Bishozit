@@ -20,11 +20,20 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
   <a href="https://developer.apple.com/swift/" target="_blank">
     <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
   </a>
+  <a href="https://developer.apple.com/xcode/" target="_blank">
+    <img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  </a>
   <a href="https://developer.apple.com/ios/" target="_blank">
     <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
   </a>
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
   </a>
 </p>
 
