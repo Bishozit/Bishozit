@@ -46,6 +46,8 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/bishozitchandradas)
 - **Email:** [bishozitdas191@gmail.com](mailto:bishozitdas191@gmail.com)
 
+Feel free to reach out for collaborations, tech discussions, or just to connect! Happy coding! 🚀
+
 ---
 
 ### 📈 GitHub Stats
