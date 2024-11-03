@@ -43,11 +43,6 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
   <img src="https://github-readme-stats.vercel.app/api?username=bishozit&show_icons=true&theme=radical" alt="Bishozit's GitHub Stats" />
 </p>
 
-### 🔥 My Top Repositories
-
-- [Project Miutx](https://github.com/your-github-username/miutx) – An all-in-one business solution for SMEs.
-- [Akij Takaful App](https://github.com/your-github-username/akij-takaful) – Privilege card, claim details, and chain setup features.
-
 ---
 
 Thanks for visiting my GitHub profile! 😊 If you have any collaboration ideas, feel free to reach out. Let's make something amazing together!
