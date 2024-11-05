@@ -17,11 +17,11 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
   <a href="https://dart.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
   </a>
-  <a href="https://developer.apple.com/swift/" target="_blank">
-    <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
-  </a>
   <a href="https://developer.apple.com/xcode/" target="_blank">
     <img src="https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>
+  </a>
+   <a href="https://firebase.google.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   </a>
   <a href="https://developer.apple.com/ios/" target="_blank">
     <img src="https://img.shields.io/badge/iOS-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
@@ -29,11 +29,29 @@ Beyond work, I’m dedicated to sharing my technical knowledge with others, moti
   <a href="https://developer.android.com/" target="_blank">
     <img src="https://img.shields.io/badge/Android-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
   </a>
+  <a href="https://developer.apple.com/app-store/" target="_blank">
+    <img src="https://img.shields.io/badge/App%20Store-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" alt="App Store"/>
+  </a>
+  <a href="https://play.google.com/console" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play%20Console-%234285F4.svg?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Console"/>
+  </a>
+   <a href="https://www.atlassian.com/software/jira" target="_blank">
+    <img src="https://img.shields.io/badge/JIRA-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="JIRA"/>
+  </a>
+   <a href="https://cloud.google.com/maps-platform" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Maps%20API-%234285F4.svg?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps API"/>
+  </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   </a>
   <a href="https://www.java.com/" target="_blank">
     <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
+  </a>
+   <a href="https://developer.apple.com/swift/" target="_blank">
+    <img src="https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
+  </a>
+  <a href="https://firebase.google.com/products/realtime-database/" target="_blank">
+    <img src="https://img.shields.io/badge/Firebase%20Realtime%20Database-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Realtime Database"/>
   </a>
 </p>
 
